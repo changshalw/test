@@ -8,9 +8,6 @@
 	</view>
 </template>
 
-
-
-
 <script>
 	export default{
 		data() {
